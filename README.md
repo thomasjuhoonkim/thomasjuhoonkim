@@ -3,11 +3,11 @@
 <div align=center>
   <div>
     <img src="https://media.giphy.com/media/dWPOU9ExyU5d6/giphy.gif"
-    alt="Thomas the Tank Engine with a Flame Thrower" width="32%">
+    alt="Thomas the Tank Engine with a Flame Thrower" width=300>
     <p><strong>Figure 1:</strong> Thomas the Tank Engine with a Flame Thrower</p>
   </div>
   <div>
-    <img src="./img/me.jpg" width="32%">
+    <img src="./img/me.jpg" width=300>
     <p><strong>Figure 2:</strong> The Real Thomas Kim</p>
   </div>
 
