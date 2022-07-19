@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div>
+  <img src="https://media.giphy.com/media/dWPOU9ExyU5d6/giphy.gif" width=400>
+</div>
+
 <!--
 **thomasjuhoonkim/thomasjuhoonkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
