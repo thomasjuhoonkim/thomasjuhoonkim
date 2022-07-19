@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-<div>
+<div style="text-align:center;float:left;">
   <img src="https://media.giphy.com/media/dWPOU9ExyU5d6/giphy.gif" width=400>
+  <p>Figure 1: Thomas the Tank Engine with a Flame Thrower
 </div>
+
+<p style="clear:left">Don't worry, this README is under construction, I'm not insane.</p>
 
 <!--
 **thomasjuhoonkim/thomasjuhoonkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
