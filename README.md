@@ -2,11 +2,11 @@
 
 <div id="container" style="display:flex; align-items:center; gap:50px; justify-content:center;">
   <div style="text-align:center;">
-    <img src="https://media.giphy.com/media/dWPOU9ExyU5d6/giphy.gif" width=400>
+    <img src="https://media.giphy.com/media/dWPOU9ExyU5d6/giphy.gif" width=300>
     <p><strong>Figure 1:</strong> Thomas the Tank Engine with a Flame Thrower
   </div>
   <div style="text-align:center;">
-    <img src="./img/me.jpg" width=400>
+    <img src="./img/me.jpg" width=300>
     <p><strong>Figure 2:</strong> The Real Thomas Kim</p>
   </div>
 </div>
