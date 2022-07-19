@@ -1,19 +1,21 @@
 <h1 align=center>Hi there 👋</h1>
 
-<div id="container" style="display:flex; align-items:center; gap:50px; justify-content:center;">
-  <div style="text-align:center;">
-    <img src="https://media.giphy.com/media/dWPOU9ExyU5d6/giphy.gif" width=300>
-    <p><strong>Figure 1:</strong> Thomas the Tank Engine with a Flame Thrower
+<div align=center>
+  <div>
+    <img src="https://media.giphy.com/media/dWPOU9ExyU5d6/giphy.gif"
+    alt="Thomas the Tank Engine with a Flame Thrower" width=300>
+    <p><strong>Figure 1:</strong> Thomas the Tank Engine with a Flame Thrower</p>
   </div>
-  <div style="text-align:center;">
+  <div>
     <img src="./img/me.jpg" width=300>
     <p><strong>Figure 2:</strong> The Real Thomas Kim</p>
   </div>
-</div>
 
-<p align=center style="margin:20px; border:5px solid gray; font-size: 20px;">
-Don't worry, this README is under construction, I'm not insane.
-</p>
+<img src="https://komarev.com/ghpvc/?username=thomasjuhoonkim&style=flat-square&color=blue"
+  alt="Thomas' GitHub Page Profile Views"/>
+
+  <p>Don't worry, this README is under construction, I'm not insane.</p>
+</div>
 
 <!--
 **thomasjuhoonkim/thomasjuhoonkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
