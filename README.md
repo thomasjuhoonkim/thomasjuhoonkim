@@ -15,10 +15,10 @@
     <a href="https://www.linkedin.com/in/thomasjuhoonkim/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="">
+    <a href="#">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="">
+    <a href="#">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
@@ -28,19 +28,19 @@
 
 ---
 
-### :man_technologist: About Me :
+### 👨‍💻 About Me :
 
 I am a Junior Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
 
 - 🔭 I'm currently rapidly expanding my portfolio with web dev projects, games, and automation. I'm also currently working for EnPowered as a Code Breaker, helping to decrypt utility bills in Ontraio, New York, and Ohio.
 
-- ⚡ In my free time, I like learning about new subjects such as Cryptography, Web Development, and Trains.
+- ⚡ In my free time, I like learning about new subjects such as Cryptography, Web Development, and Business.
 
 - 🌱 Exploring the world of Software Development and Entreprenuership and the like.
 
 - ⚡ Fun fact: I named myself Thomas when I was 7 while I watching Thomas the Train.
 
-- 🤔 I’m looking for help with finding a Fall 2022 Internship.
+- 🤔 I’m currently looking for Fall 2022 Internships.
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Thomas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thomasjuhoonkim/)
 
