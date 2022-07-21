@@ -30,7 +30,7 @@
 
 ### 👨‍💻 About Me :
 
-I am a Junior Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
+I am a Junior Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ontario, Canada.
 
 - 🔭 I'm currently rapidly expanding my portfolio with web dev projects, games, and automation. I'm also currently working for EnPowered as a Code Breaker, helping to decrypt utility bills in Ontraio, New York, and Ohio.
 
