@@ -1,5 +1,6 @@
 <img src="./banner.png">
-<p>I'm a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ontario, Canada.</p>
+
+I'm a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ontario, Canada.
 
 ### About Me 👨‍💻:
 
