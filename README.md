@@ -1,10 +1,9 @@
 <img src="./banner.png">
-
-I am a Junior Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ontario, Canada.
+I'm a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ontario, Canada.
 
 ### About Me 👨‍💻:
 
-- 🔭 I'm currently rapidly expanding my portfolio with web dev projects, games, and automation. I'm also currently working for EnPowered as a Code Breaker, helping to decrypt utility bills in Ontraio, New York, and Ohio.
+- 🔭 I'm a Code Breaker at EnPowered, helping to decrypt utility bills in Ontraio, New York, and Ohio.
 - ⚡ In my free time, I like learning about new subjects such as Cryptography, Web Development, and Business.
 - 🌱 Exploring the world of Software Development and Entreprenuership and the like.
 - ⚡ Fun fact: I named myself Thomas when I was 7 while I watching Thomas the Train.
