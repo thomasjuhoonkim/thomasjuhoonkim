@@ -1,6 +1,6 @@
 <img src="./banner.png">
 
-I'm a Software Developer from Ontario, Canada.
+#### I'm a Software Developer from Ontario, Canada.
 
 ### About Me:
 
