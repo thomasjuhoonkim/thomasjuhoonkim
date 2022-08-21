@@ -1,8 +1,8 @@
 <img src="./banner.png">
 
-I'm a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ontario, Canada.
+I'm a Software Developer from Ontario, Canada.
 
-### About Me 👨‍💻:
+### About Me:
 
 - 🔭 I'm a Code Breaker at EnPowered, helping to decrypt utility bills in Ontraio, New York, and Ohio.
 - ⚡ In my free time, I like learning about new subjects such as Cryptography, Web Development, and Business.
@@ -10,7 +10,7 @@ I'm a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - ⚡ Fun fact: I named myself Thomas when I was 7 while I watching Thomas the Train.
 - 🤔 I’m currently looking for Fall 2022 Internships.
 
-### 🛠️ Languages and Tools :
+### Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"  title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -27,6 +27,6 @@ I'm a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### 🔥 My Stats :
+### My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thomasjuhoonkim&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
