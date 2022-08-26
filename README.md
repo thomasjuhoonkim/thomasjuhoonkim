@@ -1,14 +1,13 @@
 <img src="./banner.png">
 
-#### I'm a Software Developer from Ontario, Canada.
+### I'm a Software Developer from Toronto.
 
 ### About Me:
 
-- 🔭 I'm a Code Breaker at EnPowered, helping to decrypt utility bills in Ontraio, New York, and Ohio.
-- ⚡ In my free time, I like learning about new subjects such as Cryptography, Web Development, and Business.
-- 🌱 Exploring the world of Software Development and Entreprenuership and the like.
-- ⚡ Fun fact: I named myself Thomas when I was 7 while I watching Thomas the Train.
-- 🤔 I’m currently looking for Fall 2022 Internships.
+- 💼 I'm currently working part-time as a Software Developer for Four Star Inc.
+- 🏢 I've previously interned as a Code Breaker at EnPowered and as a Designer at Grobo.
+- 📕 In my free time, I like learning about new subjects such as Cryptography, Web Development, and Business.
+- 🚂 Fun fact: I named myself Thomas when I was 7 while I watching Thomas the Train.
 
 ### Languages and Tools :
 
@@ -26,7 +25,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" **alt="MATLAB" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-### My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thomasjuhoonkim&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
