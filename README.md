@@ -2,6 +2,8 @@
 
 ### I'm a Software Developer from Toronto.
 
+### [Check out my personal website!](https://www.thomasjuhoonkim.me)
+
 ### About Me:
 
 - 💼 I'm currently working part-time as a Software Developer for Four Star Inc.
