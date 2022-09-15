@@ -1,6 +1,6 @@
 <img src="./banner.png">
 
-### I'm a Software Developer from Toronto.
+### I'm a Software Developer based in Toronto.
 
 ### [Check out my personal website!](https://www.thomasjuhoonkim.me)
 
