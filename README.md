@@ -1,4 +1,5 @@
-<img src="./toronto-banner.png">
+![Toronto Skyline](./toronto-banner.png#gh-dark-mode-only)
+![Toronto Skyline](./toronto-banner-inverted.png#gh-light-mode-only)
 
 ### I'm a Software Developer based in Toronto.
 
