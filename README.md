@@ -1,4 +1,4 @@
-<img src="./banner.png">
+<img src="./toronto-banner.png">
 
 ### I'm a Software Developer based in Toronto.
 
