@@ -1,13 +1,13 @@
 ![Toronto Skyline](./toronto-banner.png#gh-dark-mode-only)
 ![Toronto Skyline](./toronto-banner-inverted.png#gh-light-mode-only)
 
-### I'm a Software Developer based in Toronto.
-
-### [Check out my personal website!](https://www.thomasjuhoonkim.me)
+### Software Engineer based in Toronto.
 
 ### About Me:
 
-- 💼 I'm currently working part-time as a Software Developer for Four Star Inc.
-- 🏢 I've previously interned as a Code Breaker at EnPowered and as a Designer at Grobo.
-- 📕 In my free time, I like learning about new subjects such as Cryptography, Web Development, and Business.
-- 🚂 Fun fact: I named myself Thomas when I was 7 while I watching Thomas the Train.
+- I'll be working at Square as a software engineering intern for summer 2023.
+- I've previously worked as a Software Developer, Data Analyst, and Designer.
+- In my free time, I like learning about new subjects such as Cryptography, Web Development, and Business.
+- Fun fact: I named myself Thomas when I was 7 while I watching Thomas the Train.
+
+Check out my [Website](https://www.thomasjuhoonkim.me) and [LinkedIn](https://www.linkedin.com/in/thomasjuhoonkim).
