@@ -5,7 +5,7 @@
 
 ### About Me:
 
-- I'm interning at Square as Software Engineering Intern for Summer 2023.
+- I'm interning at Square as a Software Engineering Intern for Summer 2023.
 - I've previously worked as a Software Developer, Data Analyst, and Designer.
 - In my free time, I like learning about new subjects such as Cryptography, Urban Planning, Entrepreneurship.
 - Fun fact: I named myself Thomas when I was 7 while I watching Thomas the Train.
